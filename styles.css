@@ -1,0 +1,17 @@
+body {
+  background-color: rgba(0, 191, 255, 0.3);
+  padding-top: 20px;
+}
+
+button {
+  background-color: rgba(0, 128, 0, 0.7);
+  border-radius: 10%;
+}
+
+.temperature {
+  text-align: left;
+}
+
+.date {
+  text-align: left;
+}
